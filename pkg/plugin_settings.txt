@@ -1,0 +1,6 @@
+name=JMX Generic
+version=1.0
+platforms=windows linux
+description=Monitor JMX data
+requiresAgentScript=false
+restartCore=false

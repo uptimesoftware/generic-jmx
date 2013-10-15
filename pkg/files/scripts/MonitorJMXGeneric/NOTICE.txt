@@ -1,0 +1,7 @@
+Jolokia uses some 3rd party software, which is delivered as part of the agents. These are:
+
+- json-simple released under the Apache License 2.0 as well.
+- The OSGi bundle includes the Apache Felix HttpService Bundle which is licensed under the APL.
+- This web-site uses the 960 Grid System for its layout. This is released under the GPL and MIT license.
+- The reference guide's stylesheets are adapted from Gradle, which are released under the Apache License.
+- Syntax Highlighting is done with help of google-code-prettify, Apache licensed, too.
