@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * Generic JMX 1.0 - 7.2
+* Generic JMX 1.0 - 7.2
   
 
 
@@ -41,12 +41,19 @@ None; no agent required
 
 
 ### Input Variables
-* MBean Object Name* Attribute
+
+* MBean Object Name
+
+* Attribute
+
 
 ### Output Variables
 
+
 * Values
 
+
 ### Languages Used
+
 * PHP
 
