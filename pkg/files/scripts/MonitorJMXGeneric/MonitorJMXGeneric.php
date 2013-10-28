@@ -27,7 +27,7 @@
 	}
 	
 	
-	if($dataType == "integer") {
+	if(is_int($JSON_DATA->{'value'})) {
 		echo "returnedDataNum ".$JSON_DATA->{'value'}."\n";
 	} else {
 		echo "returnedDataString ".$JSON_DATA->{'value'}."\n";

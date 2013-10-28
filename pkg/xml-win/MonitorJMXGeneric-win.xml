@@ -72,8 +72,8 @@
             </gui_type>
 		</element>
 		
-		<element name="returnedDataNum" parameter_type="output" data_type="ranged" gui_basic="1" range_type="0" units="">
-            <control_options>size:8</control_options>
+		<element name="returnedDataNum" parameter_type="output" data_type="integer" gui_basic="1" range_type="0" units="">
+            <control_options>size:12</control_options>
             <default_value/>
             <short_description>Returned Data (Numeric)</short_description>
             <long_description>Returned Data (Numeric)</long_description>
