@@ -3,4 +3,4 @@ inst=`grep ^inst /etc/init.d/uptime_httpd | cut -d= -f2`
 MIBDIRS=$inst/mibs
 export MIBDIRS
 
-/usr/local/uptime/apache/bin/php ../../plugins/scripts/MonitorJMXGeneric/MonitorJMXGeneric.php
+/usr/local/uptime/apache/bin/php MonitorJMXGeneric.php
